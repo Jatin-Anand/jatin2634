@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jatin2634
+- 👋 Hi, I’m Jatin Anand
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning DSA,python,web development
 
