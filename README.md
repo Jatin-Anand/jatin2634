@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jatin Anand
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning DSA,python,web development
+- 👀 I’m interested in data analyst
+- 🌱 I’m currently learning Python,Power BI,excel,SQL
 
 <!---
 jatin2634/jatin2634 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
