@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jatin Anand
-- 👀 I’m interested in Full stack Development
+- 👀 I’m interested a Full stack developer
 - 🌱 I’m currently learning React, Node, JS, Mongo DB
 
 <!---
