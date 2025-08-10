@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jatin Anand
-- 👀 I’m interested a Full stack developer
-- 🌱 I’m currently learning React, Node, JS, Mongo DB
+- 👀 I’m a Full stack developer
+- 🌱 I’m have good hands on React,Node,Express,MongoDB working on both Frontend and Backend.
 
 <!---
 jatin2634/jatin2634 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
